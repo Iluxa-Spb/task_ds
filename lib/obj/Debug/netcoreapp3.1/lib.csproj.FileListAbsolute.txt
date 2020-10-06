@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\lib\bin\Debug\netcoreapp3.1\lib.deps.json
+C:\Users\Admin\source\repos\lib\bin\Debug\netcoreapp3.1\lib.dll
+C:\Users\Admin\source\repos\lib\bin\Debug\netcoreapp3.1\lib.pdb
+C:\Users\Admin\source\repos\lib\obj\Debug\netcoreapp3.1\lib.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\lib\obj\Debug\netcoreapp3.1\lib.AssemblyInfo.cs
+C:\Users\Admin\source\repos\lib\obj\Debug\netcoreapp3.1\lib.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\lib\obj\Debug\netcoreapp3.1\lib.dll
+C:\Users\Admin\source\repos\lib\obj\Debug\netcoreapp3.1\lib.pdb
+C:\Users\Admin\source\repos\lib\obj\Debug\netcoreapp3.1\lib.csprojAssemblyReference.cache
